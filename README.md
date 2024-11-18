@@ -66,8 +66,8 @@ Print '=' dikalikan 80 :
 ### Step 8 : Test Code Program
 Jalankan code program dengan memasukan nama, nilai tugas, nilai uts, nilai uas :
 
-- Nama : Dafa Maulana
-- Nim : 312410387
+- Nama : Rizky Maulana
+- Nim : 312410430
 - Nilai Tugas : 90
 - Nilai UTS : 55
 - Nilai UAS : 80
